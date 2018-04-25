@@ -12,6 +12,9 @@ We've gone to great lengths to adhere to the **fulcro** community styleguides & 
 
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
 
+## Status of this project
+
+Just got started, feel free to contribute! Here is the RealWorld [issue](https://github.com/gothinkster/realworld/issues/210).
 
 # How it works
 
