@@ -1,17 +1,21 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-# dependencies
-/node_modules
-/bower_components
+*.class
+*.iml
+*.jar
+.idea
+checkouts
+classes
+figwheel_server.log
+lein-template.iml
+node_modules
+pom.xml
+pom.xml.asc
+resources/public/js
+target
+out
+package-lock.json
+resources/private
+.lein-repl-history
+resources/i18n/i18n.js
 
-# IDEs and editors
-/.idea
-.project
-.classpath
-*.launch
-.settings/
-
-
-#System Files
-.DS_Store
-Thumbs.db
